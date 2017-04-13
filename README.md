@@ -14,8 +14,8 @@
 * Daniel Zeng
 
 ## Important Links
-Email: danielzeng19@gmail.com
-GitHub: https://github.com/dzengggg[https://github.com/dzengggg]
+Email: danielzeng19@gmail.com  
+GitHub: https://github.com/dzengggg
 
 ## Languages Known:
 |Language      | Skill Level   | Preference     |
