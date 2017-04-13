@@ -4,7 +4,6 @@
 * Abstract
 * Contributor
 * Important Links
-*Languages Known
 * Favorite Songs
 * Favorite Meme
 
