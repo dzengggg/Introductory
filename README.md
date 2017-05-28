@@ -4,8 +4,7 @@
 * Abstract
 * Contributor
 * Important Links
-* Favorite Songs
-* Favorite Meme
+
 
 ## Abstract
 2nd year student at UCSB studying Statistics, and looking into a double major with math
