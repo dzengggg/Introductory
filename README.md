@@ -20,7 +20,7 @@ GitHub: https://github.com/dzengggg
 |Language      | Skill Level   | Preference     |
 |--------------|---------------|----------------|
 |R             |Beginner/Medium|First Choice    |
-|Python        |I took CS8     |Last Choice     |
+|Python        |CS8 + Pandas   |Last Choice     |
 |SQL           |Very new       |Second Choice   |
 
 ### Languages/data insight you want to learn
