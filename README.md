@@ -20,17 +20,11 @@ GitHub: https://github.com/dzengggg
 ## Languages Known:
 |Language      | Skill Level   | Preference     |
 |--------------|---------------|----------------|
-|R             |Beginner/Medium|Yeet            |
+|R             |Beginner/Medium|First Choice    |
 |Python        |I took CS8     |Last Choice     |
 |SQL           |Very new       |Second Choice   |
 
 ### Languages/data insight you want to learn
 Pandas package on Python, Improve SQL, SAS? 
 
-## Favorite Songs
-* No Church in the Wild - Kanye West
-* Daybreak - Overwerk
-* Shelter - Porter Robinson & Madeon
-
-## Favorite Meme
-![alt text](http://i.imgur.com/3ADPQSV.png) 
+ 
